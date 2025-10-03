@@ -1,6 +1,5 @@
 <template>
-  <div>
-    <h1>IronHealth - About Us</h1>
+  <div id="app">
     <AboutUs />
   </div>
 </template>
@@ -9,7 +8,6 @@
 import AboutUs from './views/AboutUs.vue'
 
 export default {
-  name: 'App',
   components: {
     AboutUs
   }
@@ -18,8 +16,11 @@ export default {
 
 <style>
 body {
-  font-family: Arial, sans-serif;
-  margin: 2rem;
-  background-color: #f5f5f5;
+  margin: 0;
+  font-family: 'Arial', sans-serif;
+}
+#app {
+  background-color: white;
+  min-height: 100vh;
 }
 </style>
