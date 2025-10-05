@@ -1,0 +1,27 @@
+{
+  "banner": {
+    "title": "About Us",
+    "subtitle": "Innovating Health, Together"
+  },
+  "ourStory": {
+    "title": "Our Story",
+    "text": "At IronHealth, we are a diverse team of full-stack developers and programmers with varying levels of experience, united by our passion for creating meaningful web applications. This project marks the culmination of our “Implementation of Web Applications in Internet, Intranet, and Extranet Environments” module at IronHack.\n\nThroughout this journey, we have combined our knowledge from the entire course, collaborating closely to design and build a functional web application for managing a simulated healthcare clinic. Using modern technologies such as Vue, Vite 3, GitHub, and MongoDB, we implemented features including patient data management, authentication, appointment scheduling, and client and professional administration.\n\nIronHealth is more than just a project—it is a testament to our teamwork, dedication, and the skills we have developed over the course. We aim to demonstrate how real-world web development projects can be approached with both technical rigor and creative collaboration."
+  },
+  "ourApproach": {
+    "title": "Our Approach",
+    "text": "Our approach at IronHealth is rooted in collaboration, continuous learning, and practical application of modern web technologies. Every feature and component was developed with attention to functionality, scalability, and usability.\n\nWe embrace best practices in full-stack development, including version control with GitHub, structured database management with MongoDB, and component-based design in Vue. By combining our individual strengths, we ensure that the application not only meets the project requirements but also reflects our shared commitment to quality, efficiency, and innovation.\n\nThis experience has strengthened our understanding of real-world development workflows and has prepared us to tackle future projects with confidence and creativity."
+  },
+  "team": {
+    "title": "About the team",
+    "role": "Headaches"
+  },
+  "footer": {
+    "aboutTitle": "About this project",
+    "githubText": "Find this project in our:",
+    "educationalText": "Educational project made for",
+    "joinTitle": "Join Us",
+    "joinText": "Want to collaborate or learn more?",
+    "contactBtn": "Contact Us",
+    "whereTitle": "Where can you find us?"
+  }
+}

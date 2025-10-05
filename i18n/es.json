@@ -1,0 +1,27 @@
+{
+  "banner": {
+    "title": "Sobre Nosotros",
+    "subtitle": "Innovando la salud, juntos"
+  },
+  "ourStory": {
+    "title": "Nuestra Historia",
+    "text": "En IronHealth, somos un equipo diverso de desarrolladores full-stack y programadores con distintos niveles de experiencia, unidos por nuestra pasión por crear aplicaciones web significativas. Este proyecto marca la culminación de nuestro módulo “Implantación de aplicaciones web en entornos Internet, intranet y extranet” en IronHack.\n\nA lo largo de este viaje, hemos combinado los conocimientos adquiridos durante todo el curso, colaborando estrechamente para diseñar y desarrollar una aplicación web funcional para gestionar una clínica simulada. Usando tecnologías modernas como Vue, Vite 3, GitHub y MongoDB, implementamos funcionalidades como gestión de datos de pacientes, autenticación, programación de citas y administración de clientes y profesionales.\n\nIronHealth es más que un proyecto: es un testimonio de nuestro trabajo en equipo, dedicación y las habilidades que hemos desarrollado durante el curso. Nuestro objetivo es demostrar cómo los proyectos de desarrollo web del mundo real pueden abordarse con rigor técnico y colaboración creativa."
+  },
+  "ourApproach": {
+    "title": "Nuestro Enfoque",
+    "text": "Nuestro enfoque en IronHealth se basa en la colaboración, el aprendizaje continuo y la aplicación práctica de tecnologías web modernas. Cada funcionalidad y componente fue desarrollado prestando atención a la funcionalidad, escalabilidad y usabilidad.\n\nAdoptamos las mejores prácticas en desarrollo full-stack, incluyendo control de versiones con GitHub, gestión estructurada de bases de datos con MongoDB y diseño basado en componentes con Vue. Al combinar nuestras fortalezas individuales, aseguramos que la aplicación no solo cumpla con los requisitos del proyecto, sino que también refleje nuestro compromiso compartido con la calidad, eficiencia e innovación.\n\nEsta experiencia ha fortalecido nuestra comprensión de los flujos de trabajo de desarrollo del mundo real y nos ha preparado para abordar futuros proyectos con confianza y creatividad."
+  },
+  "team": {
+    "title": "Sobre el equipo",
+    "role": "Dolores de cabeza"
+  },
+  "footer": {
+    "aboutTitle": "Sobre este proyecto",
+    "githubText": "Encuentra este proyecto en nuestro:",
+    "educationalText": "Proyecto educativo realizado para",
+    "joinTitle": "Únete a nosotros",
+    "joinText": "¿Quieres colaborar o saber más?",
+    "contactBtn": "Contáctanos",
+    "whereTitle": "¿Dónde encontrarnos?"
+  }
+}
